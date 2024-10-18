@@ -1,0 +1,14 @@
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\bin\Debug\net8.0\WebSocketConsole.exe
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\bin\Debug\net8.0\WebSocketConsole.deps.json
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\bin\Debug\net8.0\WebSocketConsole.runtimeconfig.json
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\bin\Debug\net8.0\WebSocketConsole.dll
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\bin\Debug\net8.0\WebSocketConsole.pdb
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.AssemblyInfoInputs.cache
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.AssemblyInfo.cs
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.dll
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\refint\WebSocketConsole.dll
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.pdb
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\WebSocketConsole.genruntimeconfig.cache
+C:\Users\Nilesh C\source\repos\WebSocketConsole\WebSocketConsole\obj\Debug\net8.0\ref\WebSocketConsole.dll
